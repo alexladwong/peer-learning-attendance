@@ -1,0 +1,14 @@
+body{
+    background: rgb(32, 32, 36);
+}
+h1{
+    border:1px #ff0 solid;
+    padding: 2rem 5rem;
+    color: #fff;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+div{
+    
+    color: #fff;
+}
